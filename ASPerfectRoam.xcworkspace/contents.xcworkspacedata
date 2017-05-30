@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Client4Perfect/Client4Perfect.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:PerfectRoam/PerfectRoam.xcodeproj">
+   </FileRef>
+</Workspace>
